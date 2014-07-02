@@ -12,7 +12,7 @@ Make sure you have a folder set up to mess around in, while you're reading this 
 
 **Add a subfolder, called "googler", to ~/src/zc\_sandbox.** This will contain the actual code
 
-**_Add an empty \_\_init\_\_.py file to this directory.** This will make it a valid python module
+**Add an empty \_\_init\_\_.py file to this directory.** This will make it a valid python module
 
 **Add a file called googler.py as well,** containing the following code:
 
